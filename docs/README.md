@@ -1,5 +1,7 @@
 <!-- CODE CLASS README EXAMPLE -->
 
+[Best README Template](https://github.com/othneildrew/Best-README-Template)
+
 <!-- PROJECT LOGO -->
 
 ![please replace with alt text](https://img.shields.io/badge/anytext-youlike-blue)
